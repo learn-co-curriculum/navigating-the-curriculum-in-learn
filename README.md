@@ -30,5 +30,3 @@ Once you've completed a lesson or lab, you should click the "I'm Done" button on
 Computer requirements for the Online Data Science Program can be found here: https://flatironschool.com/compreq.
 
 We recommend using Google Chrome as your web browser for Learn. You can download Chrome here: https://www.google.com/chrome/.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/navigating-the-curriculum-in-learn'>Navigating the Curriculum in Learn</a> on Learn.co and start learning to code for free.</p>
